@@ -28,8 +28,8 @@ as well.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/FJSolutions/fm-qr-code]
+- Live Site URL: [https://fjsolutions.github.io/fm-qr-code/]
 
 ## My process
 
